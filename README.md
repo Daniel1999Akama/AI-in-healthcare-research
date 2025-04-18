@@ -1,3 +1,5 @@
+# [Link to youtube presentation](https://youtu.be/2D9aQgx6CSw)
+
 # 🧠 Pneumonia Prediction Using Machine Learning
 
 This project applies machine learning to structured clinical data to predict pneumonia in patients. By leveraging dimensionality reduction and ensemble modeling, the goal is to create an interpretable and performant tool that supports early diagnosis, particularly in resource-limited settings.

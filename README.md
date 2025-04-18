@@ -1,4 +1,4 @@
-# [Link to youtube presentation](https://youtu.be/2D9aQgx6CSw)
+# Link to [youtube presentation here](https://youtu.be/2D9aQgx6CSw)
 
 # 🧠 Pneumonia Prediction Using Machine Learning
 

@@ -78,4 +78,4 @@ Pneumonia is a major cause of mortality worldwide. Traditional diagnosis methods
 ## Reproducibility
 Download the zip folder that contains the dataset and the IPYNB FILE
 
-
+<img src="res.png" width="300">
